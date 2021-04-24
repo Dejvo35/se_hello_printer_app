@@ -1,6 +1,6 @@
 language: python
 
-Install:
+install:
   - make deps
 script:
   - make test
