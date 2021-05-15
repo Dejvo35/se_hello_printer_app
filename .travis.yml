@@ -10,3 +10,7 @@ script:
 - make lint
 - make docker_build
 - make docker_push
+deploy:
+  provider: heroku
+  app: guarded-island-29068
+  api_key: ${HEROKU_API_KEY}
