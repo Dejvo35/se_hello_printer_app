@@ -39,6 +39,8 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   $ PYTHONPATH=. py.test --verbose -s
   ```
 
+  Macie tez mozliwosc odpalenia testow z make test w terminalu Bash
+
 - Kontynuując pracę z projektem, aktywowanie hermetycznego środowiska dla aplikacji py:
 
   ```
@@ -57,6 +59,9 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
   ```
   # miejsce na twoje notatki
+
+  Monitoring aplikacji na statuscake:
+  https://app.statuscake.com/button/index.php?Track=5961950&Days=1&Design=1
   ```
 
 # Pomocnicze
